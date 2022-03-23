@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jahid234
-- 👀 I’m interested in C, C++, Java, HTML, CSS, Javascript, php and Go language
+- 👀 I’m interested in Competitive Programming and Web Developing
 - 🌱 I’m currently learning Go, CSS, Javascript, php
 - 💞️ I’m looking to collaborate on project, web-based work
 - 📫 How to reach me Email - jahid1213cvgc@gmail.com
