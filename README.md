@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jahid234
 - 👀 I’m interested in Competitive Programming and Web Developing
-- 🌱 I’m currently learning JavaScript & PHP
+- 🌱 I’m currently learning Bootstrap5, JavaScript & PHP
 - 💞️ I’m looking to collaborate on project work
 - 📫 How to reach me Email - jahid1213cvgc@gmail.com
 
